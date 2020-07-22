@@ -1,10 +1,7 @@
 //Siddharth Gautam
-// CSE 1310_004
-//HomeWork_03
-// Student ID: 1001741324
-// 12/04/2019
 
-/* P 6.25 Write a program that plays tic-tac-toe. The tic-tac-toe game
+
+/* This program plays tic-tac-toe. The tic-tac-toe game
  *  is played on a 3 × 3 grid as in the photo at right. The game is played
  *   by two players, who take turns. The first player marks moves with a circle,
  *    the second with a cross. The player who has formed a horizontal, vertical, 
